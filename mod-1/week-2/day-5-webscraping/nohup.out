@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/Users/jamesfay/opt/anaconda3/envs/learn-env/bin/jupyter", line 11, in <module>
+    sys.exit(main())
+  File "/Users/jamesfay/opt/anaconda3/envs/learn-env/lib/python3.6/site-packages/jupyter_core/command.py", line 230, in main
+    command = _jupyter_abspath(subcommand)
+  File "/Users/jamesfay/opt/anaconda3/envs/learn-env/lib/python3.6/site-packages/jupyter_core/command.py", line 133, in _jupyter_abspath
+    'Jupyter command `{}` not found.'.format(jupyter_subcommand)
+Exception: Jupyter command `jupyter-lab` not found.
+Traceback (most recent call last):
+  File "/Users/jamesfay/opt/anaconda3/envs/learn-env/bin/jupyter", line 11, in <module>
+    sys.exit(main())
+  File "/Users/jamesfay/opt/anaconda3/envs/learn-env/lib/python3.6/site-packages/jupyter_core/command.py", line 230, in main
+    command = _jupyter_abspath(subcommand)
+  File "/Users/jamesfay/opt/anaconda3/envs/learn-env/lib/python3.6/site-packages/jupyter_core/command.py", line 133, in _jupyter_abspath
+    'Jupyter command `{}` not found.'.format(jupyter_subcommand)
+Exception: Jupyter command `jupyter-lab` not found.
